@@ -6,3 +6,5 @@
 以及直接使用了其课件
 
 http://dblab.xmu.edu.cn/blog/spark/
+
+其它部分在文档中有相关说明，例如参考了 Spark快速大数据分析
